@@ -18,7 +18,8 @@
 
 ## 📸 Preview
 
-> *(Add a screenshot here — press `F12` → Mobile view → Screenshot)*
+> <img width="1347" height="811" alt="image" src="https://github.com/user-attachments/assets/c63c34dc-be16-4616-b00e-d0a0289a3594" />
+
 
 ---
 
